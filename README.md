@@ -2,6 +2,5 @@
 
 ## Narzędzia zespołu
 
-Git — kontrola wersji
-
-GitHub — współpraca nad kodem
+- Git — kontrola wersji i historia zmian.
+- GitHub — współpraca nad kodem, Pull Requesty i code review.
