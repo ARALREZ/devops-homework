@@ -1,10 +1,9 @@
-# Plan DevOps
+# Mój plan nauki DevOps
 
 ## Czym jest DevOps?
-DevOps to podejście łączące programowanie i administrację systemami. Wykorzystuje automatyzację, CI/CD oraz narzędzia ułatwiające tworzenie, testowanie i wdrażanie oprogramowania.
+
+DevOps to podejście do tworzenia i utrzymywania oprogramowania, które łączy pracę programistów i administratorów systemów. Jego celem jest automatyzacja procesów, usprawnienie współpracy oraz szybsze i bardziej niezawodne dostarczanie oprogramowania.
 
 ## Co chcę osiągnąć w tym kursie?
-- Nauczyć się obsługi Git i GitHub.
-- Poznać Docker i konteneryzację.
-- Zrozumieć podstawy CI/CD.
-- Nauczyć się automatyzacji zadań DevOps.
+
+W trakcie kursu chcę nauczyć się korzystać z systemu Linux, Gita i GitHuba oraz Dockera. Chcę również poznać podstawy automatyzacji procesów, konfiguracji środowisk i wdrażania aplikacji. Moim celem jest zdobycie praktycznych umiejętności, które wykorzystam w przyszłej pracy w branży IT.
